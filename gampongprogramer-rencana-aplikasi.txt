@@ -1,6 +1,9 @@
 RENACANA APLIKASI GAMPONG PROGRAMER
 
 -Blog versi framework laravel
+  *php
+  *oop
+  *mvc
 -Wisata framework laravel
 -e-comerce framwork laravel
 -E-commercy framework codeigniter
